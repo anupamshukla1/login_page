@@ -1,0 +1,95 @@
+.navbar {
+    background-color: purple;
+    letter-spacing: 3px;
+    padding-left: 20px;
+   
+}
+.userform {
+    text-align: center;
+    background:  #ffff;
+    box-shadow: 2px 1px 2px 2px #3b0539 ;
+    margin-left: 32%;
+    margin-right: 10%;
+    width: 550px;
+    height: 190px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+    
+}
+
+.username {
+    margin-right: 38%;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-right: 70px;
+    margin-left: 2px;
+    border-radius: 5px;
+    
+    
+}
+
+.uname {
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-block: 30px;
+    background-color: rgb(248, 178, 178);
+    border-color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    
+    
+    
+    
+    
+}
+  .pword {
+    width: 60%;
+    display: inline-block;
+    margin: 0px 0px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgb(248, 178, 178);
+    border-color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    
+    
+  }
+
+
+.password {
+    
+    margin-right: 50px;
+    border-radius: 5px;
+    margin: 5rpm;
+    margin-bottom: 1;
+    letter-spacing: 1px;
+    font-weight: bold;
+    
+    
+}
+
+.pword {
+    border-radius: 5px;
+    height: 30px;
+    margin-inline: 1px;
+    
+    
+}
+.login {
+    
+   margin-left: 45px;
+   margin-block: 10px;
+   border-radius: 25px ;
+   list-style-type: inherit;
+   width: 125px;
+   height: 37px;
+   background-color: lightgray;
+   border-right-color: darkgreen;
+   
+
+
+}
